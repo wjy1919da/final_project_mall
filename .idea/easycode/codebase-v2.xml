@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/cloud-iaas/pom.xml;C:/java project/final-project/shop-business/order-service/src/main/java/com/shopping/OrderServiceApplication.java;C:/java project/final-project/shop-business/order-service/pom.xml;C:/java project/final-project/shop-business/pom.xml;C:/java project/final-project/shop-common/common-base/src/main/java/com/shopping/entity/ConfigInfo.java;C:/java project/final-project/shop-common/common-base/src/main/java/com/shopping/entity/ConfigInfoAggr.java;C:/java project/final-project/shop-common/common-base/pom.xml;C:/java project/final-project/shop-common/common-core/src/main/java/com/shopping/Main.java;C:/java project/final-project/shop-common/common-core/pom.xml;C:/java project/final-project/shop-common/pom.xml;C:/java project/final-project/pom.xml;C:/java project/final-project/README.md" />
+  </component>
+</project>
